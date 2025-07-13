@@ -14,10 +14,10 @@
   "PitScreensIndexs": [],
   "SimHubVersion": "9.8.1",
   "Category": null,
-  "Title": "Art-Tachometer-Automated",
+  "Title": "Art-Pit-Window",
   "Description": null,
   "Author": "Artiick",
-  "Width": 402.0,
-  "Height": 336.0,
+  "Width": 237.0,
+  "Height": 65.0,
   "DashboardVersion": ""
 }
