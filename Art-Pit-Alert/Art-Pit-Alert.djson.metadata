@@ -14,10 +14,10 @@
   "PitScreensIndexs": [],
   "SimHubVersion": "9.8.1",
   "Category": null,
-  "Title": "Art-Lap-History-v1d",
+  "Title": "Art-Pit-Alert",
   "Description": null,
   "Author": "Artiick",
-  "Width": 339.0,
-  "Height": 368.0,
+  "Width": 44.0,
+  "Height": 160.0,
   "DashboardVersion": ""
 }
