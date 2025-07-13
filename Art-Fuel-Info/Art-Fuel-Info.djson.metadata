@@ -12,12 +12,12 @@
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
   "PitScreensIndexs": [],
-  "SimHubVersion": "9.7.6",
+  "SimHubVersion": "9.8.1",
   "Category": null,
   "Title": "Art-Fuel-Info",
   "Description": null,
   "Author": "Artiick",
-  "Width": 95.0,
+  "Width": 115.0,
   "Height": 217.0,
   "DashboardVersion": ""
 }
